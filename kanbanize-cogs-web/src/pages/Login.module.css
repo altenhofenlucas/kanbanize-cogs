@@ -1,0 +1,17 @@
+.container form {
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container form img{
+  margin-bottom: 2rem;
+  width: 300px;
+  height: auto;
+}
+
+.container form button{
+  margin-top: 2rem;
+}

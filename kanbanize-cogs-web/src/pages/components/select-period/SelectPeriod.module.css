@@ -1,0 +1,6 @@
+.dateInput{
+  margin-top: 10px;
+}
+.dateInput + .dateInput{
+  margin-top: 10px;
+}
